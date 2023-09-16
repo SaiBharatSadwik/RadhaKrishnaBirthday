@@ -1,1 +1,36 @@
-# RadhaKrishnaBirthday
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        
+    </style>
+    <title>Happy BIrthday to my dear best friend forever</title>
+    <body>
+    <h1 style="font-style: italic;"> Invitation to my friend Birthday on 23rd Sep, 2023</h1>
+    <marquee>
+        <img src="https://www.fnp.com/images/pr/l/v20200707162230/pink-pineapple-cream-cake-half-kg_2.jpg" width="200px" height="200px" alt = "All are invited to party in Iskcon Mandirs surronded to you">
+        <img src="https://img.freepik.com/premium-photo/young-cutest-radha-krishna-sculpture-sitting-swing-generative-ai_849906-10289.jpg?w=2000"  width ="200px" height="200px" alt ="RadhaKrishna" >
+        <img srcset="https://i.pinimg.com/originals/2e/65/60/2e6560da2e1f777a01b64b3356c07fd9.png" alt = "RadhaKrishna " height="200px" width="200px">    
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgi-id1-WvwHfibcYoVmWdTBanaExuAAVrEA&usqp=CAU" width="200px" height="200px" alt = "Happy birthday to you my dearest friend">
+         <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX19CWJsjq4ZET-5IHdo62HXfvOlADQYfjcA&usqp=CAU" alt ="Iskcon Prasad" width="200px",height="200px">
+    </marquee>
+    <center><h2>Everyone is invited to this party. </h2></center>
+    <ol>   
+        <li>Come with your friends and family</li>
+        <li> You can get devotional entertainment</li> 
+        <li>You can decorate with the wonderful items</li>
+    </ol>
+<button><a href="https://indiasthan.com/place/telangana/629628/iskon-temple-samskriti-township"> Location</button></a>
+</head>
+<footer>
+    <h2>Contact us</h2>
+    <h3>+91 7093994464</h3>
+    <h3><Embed>saisadwik3@gmail.com</Embed></h3>
+
+
+</footer>
+    
+</body>
+</html>
